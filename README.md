@@ -1,0 +1,2 @@
+# nope
+Bad ideas repository
